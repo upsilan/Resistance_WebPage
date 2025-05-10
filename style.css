@@ -148,3 +148,14 @@
     font-size: 1.4rem;
     margin: 1rem 0;
 }
+
+.goals {
+    text-align: center;
+}
+
+.goals b {
+    color: rgb(226, 0, 0);
+    display: block;
+    font-size: 1.4rem;
+    margin: 1rem 0;
+}
