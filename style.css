@@ -168,5 +168,32 @@
     color: rgb(226, 0, 0);
     display: block;
     font-size: 1.4rem;
-    margin: 1rem 0 0 0;
+    margin: 1rem 20px 0 0;
+}
+
+.about_main{
+    background-color: rgb(102, 28, 28);
+    text-align: right;
+}
+
+.about_main p {
+    display: block;
+    font-size: 1.3rem;
+    margin: 0.8rem 20px 0 0;
+}
+
+#BackLogo {
+    height: 80px;
+    width: auto;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+}
+
+.title h1 {
+    display: block;
+    font-size: clamp(3rem, 5vw, 5rem);  
+    margin: 1rem 20px 0 0;
 }
